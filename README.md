@@ -4,4 +4,13 @@ The goal of this project is to analyze the financial outcomes of a recent merger
 
 It needs to be ran using "streamlit run personalproject.py" command in the terminal. 
 
-It was made by Michael Duffy
+Install these libraries before running:
+- streamlit
+- yfinance
+- pandas
+- numpy
+- plotly
+- os
+
+
+This was made by Michael Duffy
